@@ -1,0 +1,19 @@
+# Generated data
+data/
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.env
+.venv
+
+# IDEs & Tools
+.vscode/
+.idea/
